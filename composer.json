@@ -1,0 +1,17 @@
+{
+    "name": "lalol/viuche",
+    "autoload": {
+        "psr-4": {
+            "Lalol\\Viuche\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viuche3",
+            "email": "sebastianviuche2020@gmial.com"
+        }
+    ],
+    "require-dev": {
+        "laravel/breeze": "^1.26"
+    }
+}
